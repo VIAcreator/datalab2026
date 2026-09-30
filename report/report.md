@@ -63,6 +63,7 @@ int logtwo(int v) {
     r|=temp;
 
     return r;
+    
 }
 ```
 
